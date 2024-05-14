@@ -1,4 +1,4 @@
-# Hi, my name is Michael
+# Hi, my name is Michael ✨ 
 
 ## Now I am studying:
 * Programming in C
@@ -17,7 +17,7 @@
 
 
 ---
-* My profile in the 1C developer community: [my profile in infostart.ru](https://infostart.ru/profile/481012)
+* ⚡ In the past, I worked in the 1C industry, where I was heavily involved in enterprise automation and accounting system development. My profile in the 1C developer community: [my profile in infostart.ru](https://infostart.ru/profile/481012)
 
 
 
