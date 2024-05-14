@@ -11,6 +11,8 @@
 * AI
 * Trading and warehouse systems and technologies
 * Robotics
+* Resource management
+* Startups
   
 
 
