@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi, my name is Michael
+
+
+
+
+```***```
+* My profile in the 1C developer community: [my profile in infostart.ru](https://infostart.ru/profile/481012)
+
+
 
 <!--
 **idalgo-2021/idalgo-2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
