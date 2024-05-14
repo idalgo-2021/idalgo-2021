@@ -3,7 +3,7 @@
 
 
 
-```***```
+---
 * My profile in the 1C developer community: [my profile in infostart.ru](https://infostart.ru/profile/481012)
 
 
