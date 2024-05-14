@@ -1,6 +1,17 @@
 # Hi, my name is Michael
 
+## Now I am studying:
+* Programming in C
+* Programming in Golang
+* System design
+* AI and ML technologies
 
+## Areas of knowledge that interest me the most:
+* Financial technologies
+* AI
+* Trading and warehouse systems and technologies
+* Robotics
+  
 
 
 ---
