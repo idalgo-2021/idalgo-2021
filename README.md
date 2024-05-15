@@ -9,6 +9,7 @@
 * Financial technologies
 * AI
 * Trading and warehouse systems and technologies
+* Architecture of software solutions and business processes
 * Robotics
 * Resource management
 * Startups
