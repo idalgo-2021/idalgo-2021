@@ -1,8 +1,8 @@
 # Hi, my name is Michael ✨ 
 
 ## Now I am studying:
-* Golang programming
 * System design
+* Golang programming
 * AI and ML technologies
 
 ## Areas of knowledge that interest me the most:
