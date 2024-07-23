@@ -1,9 +1,10 @@
 # Hi, my name is Michael ✨ 
 
-## Now I am studying:
+## Now I am studying and doing technology:
 * System design
 * Golang programming
 * AI and ML technologies
+* Web programming technologies
 
 ## Areas of knowledge that interest me the most:
 * Financial technologies
