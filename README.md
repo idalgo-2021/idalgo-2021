@@ -1,4 +1,4 @@
-# Hi, my name is Dmitry L. ✨
+# Hi, my name is Michael G. ✨
 
 ## Now I am studying and doing technology:
 * System design
