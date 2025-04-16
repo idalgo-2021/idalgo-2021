@@ -1,6 +1,6 @@
 # Hi, my name is Michael G. ✨
 
-## Now I am studying and doing technology:
+## Now my main interest is technology, such as:
 * System design
 * Golang programming
 * AI and ML technologies
