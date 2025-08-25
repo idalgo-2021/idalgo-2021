@@ -1,41 +1,18 @@
-# Hi, my name is Michael G. ✨
+# Hi, I'm Michael G. ✨
 
-## Now my main interest is technology, such as:
-* System design
-* Golang programming
-* AI and ML technologies
-* Web programming technologies
+I'm a software engineer passionate about building robust and scalable solutions, with a focus on enterprise systems and modern technologies.
 
-## Areas of knowledge that interest me the most:
-* Financial technologies
-* AI & ML
-* Trading and warehouse systems and technologies
-* Architecture of software solutions and business processes
-* Robotics
-* Resource management
-* Startups
+## 🔭 My Interests
 
-## Contacts:
+*   **Technologies:** Go (Golang), System Design, AI/ML, Web Development.
+*   **Domains:** FinTech, Trading & Warehouse Systems, Robotics, Startups.
+*   **Concepts:** Software & Business Process Architecture, Resource Management.
+
+[Telegram](https://t.me/Federico_manchinini)  <!-- Add LinkedIn or other contacts here -->
 
 
-[Telegram](https://t.me/Federico_manchinini)
+## ⚡ Background
 
----
-* ⚡ In the past, I worked in the 1C industry, where I was heavily involved in enterprise automation and accounting system development. My profile in the 1C developer community: [infostart.ru](https://infostart.ru/profile/481012). There are also several interesting projects on this site that I have implemented on the 1C platform.
+In the past, I worked extensively in the 1C industry, focusing on enterprise automation and accounting system development. You can find some of my work and contributions on my Infostart community profile:  [infostart.ru](https://infostart.ru/profile/481012).
 
-
-<!--
-**idalgo-2021/idalgo-2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
