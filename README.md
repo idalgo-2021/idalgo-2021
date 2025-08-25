@@ -4,12 +4,20 @@ I'm a software engineer passionate about building robust and scalable solutions,
 
 ## 🔭 My Interests
 
-*   **Technologies:** Go (Golang), System Design, AI/ML, Web Development.
+*   **Technologies:** Go (Golang), System Design, AI/ML, Web Development, Mobile Development.
 *   **Domains:** FinTech, Trading & Warehouse Systems, Robotics, Startups.
 *   **Concepts:** Software & Business Process Architecture, Resource Management.
 
 [Telegram](https://t.me/Federico_manchinini)  <!-- Add LinkedIn or other contacts here -->
 
+## 💼 My Projects
+
+You can find a curated list of my interesting projects, test assignments, and contributions in the [interesting_works/Readme.MD](interesting_works/Readme.MD) file. This includes work related to:
+
+*   **System Architecture & Design**
+*   **AI, ML, DL, DS**
+*   **Software Development (Go, C, 1C)**
+*   **System & Business Analysis**
 
 ## ⚡ Background
 
