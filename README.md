@@ -23,7 +23,7 @@ You can find a curated list of my interesting projects, test assignments, and co
 
 ## 🎓 Diplomas & Certifications
 
-A collection of my diplomas and certificates can be found in the [diplomas_and_certs](./diplomas_and_certs) folder.
+A collection of my diplomas and certificates can be found in the [diplomas_and_certs](diplomas_and_certificates) folder.
 
 ## ⚡ Background
 
