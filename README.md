@@ -12,11 +12,11 @@ I'm a software engineer passionate about building robust and scalable solutions,
 
 ## 💼 My Projects
 
-You can find a curated list of my interesting projects, test assignments, and contributions in the [interesting_works/Readme.MD](interesting_works/Readme.MD) file. This includes work related to:
+You can find a curated list of my interesting projects, test assignments, and contributions in the [interesting_works](interesting_works/Readme.MD) file. This includes work related to:
 
 *   **System Architecture & Design**
 *   **AI, ML, DL, DS**
-*   **Software Development (Go, C, 1C)**
+*   **Software Development (Go, Python, 1C, C)**
 *   **System & Business Analysis**
 
 
