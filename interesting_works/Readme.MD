@@ -11,7 +11,7 @@
 - [Разработка ПО](#program_development)
     - [Разработка на Go](#dev_go)
         - [Тестовое задание L0 техношколы WB "Демо сервис с Kafka, PostgreSQL, кешем*"(2025)](#wb_test_l0)
-
+        - [О! Хакатон от компании Отровок(2025)](#ostrovok_2025)
 
 
 
@@ -89,6 +89,8 @@
 
 
 <a name="program_development"><h2>Разработка ПО</h2></a>
+
+
 
 <a name="dev_go"><h3>Разработка на Go</h3></a>
 
@@ -212,6 +214,21 @@ GET http://localhost:8081/order/<order_uid> должен вернуть JSON с 
 <br><br>
 
 
+
+<a name="ostrovok_2025"><h4>О! Хакатон от компании Отровок(Октябрь 2025)</h4></a>
+
+[Каталог проекта](https://github.com/idalgo-2021/koshka-musya)
+
+<details>
+<summary>Нажмите, чтобы развернуть</summary>
+
+    Пояснение:
+
+    * Хакатон по программированию(решение прикладных бизнес задач в сфере OTA)
+    * [Сайт организаторов](https://docs.ostrovok.tech/s/ostrovok-hackathon-2025)
+         
+</details>
+<br><br>
 
 
 
