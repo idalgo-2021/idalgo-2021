@@ -5,8 +5,8 @@
     - [(Тестовое задание): Корпоративный\системный архитектор в сеть супермаркетов SMALL(Казахстан, 2024)](#arch_small_2024)
 
 - [AI, ML, DL, DS](#aiml)
-
     - [Telegram-бот для стилизации изображений.  Итоговый проект 1 курса (весна 2025) Deep Learning School МФТИ](#aiml_dls_tgbot)
+    - [Проекты(домашние задания) 1 курса (весна 2025) Deep Learning School МФТИ](aiml_dls_1)
 
 - [Разработка ПО](#program_development)
     - [Разработка на Go](#dev_go)
@@ -83,6 +83,76 @@
   
 </details>
 <br><br>
+
+
+<a name="aiml_dls_1"><h3>Проекты(домашние задания) 1 курса (весна 2025) Deep Learning School МФТИ</h3></a>
+ 
+[Каталог проекта](https://github.com/idalgo-2021/mipt_dls1_2025) 
+
+
+<details>
+<summary>Нажмите, чтобы развернуть</summary>
+            
+        1. **Basics of Data Analysis and ML:**
+
+            Working with `pandas`, `matplotlib`, `sklearn`, KNN.
+            
+            Task: predicting the survival of "Game of Thrones" characters.
+
+         
+        2. **Linear Models:**
+
+            Gradient descent, logistic regression (including with regularization) for binary classification.
+
+        
+        3. **ML in Practice (Kaggle):**
+
+            User churn prediction competition (Kaggle Spring 2021).
+
+            Methods: logistic regression, gradient boosting.
+
+        
+        4. **Neural Network Fundamentals:**
+
+            Fully connected and convolutional networks in PyTorch.
+            
+            Task: image classification (MNIST, LeNet), activations (ReLU, LeakyReLU, ELU).
+
+        
+        5. **CNNs in Practice (Kaggle):**
+
+            Character classification from "The Simpsons" (Journey to Springfield).
+
+            Designing and training convolutional classifiers.
+
+        
+        6. **Image Segmentation:**
+
+            Medical images (melanomas and moles).
+
+            Architectures: U-Net, SegNet.
+
+        
+        7. **Object Detection:**
+
+            Dataset of Halo game screenshots — identifying enemies, allies, and their heads.
+
+            Model: Feature Pyramid Network (FPN).
+
+        
+        8. **Variational Autoencoders (VAE):**
+
+            Conditional VAE, adding smiles to faces, digit generation, image retrieval.
+
+        
+        9. **Generative Models (GAN):** 
+
+            Face generation, image stylization via text prompts (StyleCLIP: CLIP + StyleGAN).
+
+          
+</details>
+<br><br>
+
 
 
 
