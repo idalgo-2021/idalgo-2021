@@ -6,7 +6,7 @@
 
 - [AI, ML, DL, DS](#aiml)
     - [Telegram-бот для стилизации изображений.  Итоговый проект 1 курса (весна 2025) Deep Learning School МФТИ](#aiml_dls_tgbot)
-    - [Проекты(домашние задания) 1 курса (весна 2025) Deep Learning School МФТИ](aiml_dls_1)
+    - [Проекты(домашние задания) 1 курса (весна 2025) Deep Learning School МФТИ](#aiml_dls_1)
 
 - [Разработка ПО](#program_development)
     - [Разработка на Go](#dev_go)
