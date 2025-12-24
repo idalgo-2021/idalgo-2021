@@ -5,7 +5,7 @@
     - [(Тестовое задание): Корпоративный\системный архитектор в сеть супермаркетов SMALL(Казахстан, 2024)](#arch_small_2024)
 
 - [AI, ML, DL, DS](#aiml)
-    - [Telegram-бот для стилизации изображений.  Итоговый проект 1 курса (весна 2025) Deep Learning School МФТИ](#aiml_dls_tgbot)
+    - [Telegram-бот для стилизации изображений.  Итоговый проект 1 курса Deep Learning School МФТИ (весна 2025)](#aiml_dls_tgbot)
     - [Учебные проекты 1 курса Deep Learning School МФТИ (весна 2025) ](#aiml_dls_1)
     - [Учебные проекты 2 курса Deep Learning School МФТИ (осень 2025) ](#aiml_dls_2)
 
@@ -74,7 +74,7 @@
 <a name="aiml"><h2>AI, ML, DL, DS, BD</h2></a>
 
 
-<a name="aiml_dls_tgbot"><h3>Telegram-бот для стилизации изображений.  Итоговый проект 1 курса (весна 2025) Deep Learning School МФТИ</h3></a>
+<a name="aiml_dls_tgbot"><h3>Telegram-бот для стилизации изображений.  Итоговый проект 1 курса Deep Learning School МФТИ (весна 2025)</h3></a>
 
 [Каталог проекта](https://github.com/idalgo-2021/dls_bot)
 
