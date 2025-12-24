@@ -6,8 +6,8 @@
 
 - [AI, ML, DL, DS](#aiml)
     - [Telegram-бот для стилизации изображений.  Итоговый проект 1 курса (весна 2025) Deep Learning School МФТИ](#aiml_dls_tgbot)
-    - [Учебные проекты 1 курса (весна 2025) Deep Learning School МФТИ](#aiml_dls_1)
-    - [Учебные проекты 2 курса (весна 2025) Deep Learning School МФТИ](#aiml_dls_2)
+    - [Учебные проекты 1 курса Deep Learning School МФТИ (весна 2025) ](#aiml_dls_1)
+    - [Учебные проекты 2 курса Deep Learning School МФТИ (осень 2025) ](#aiml_dls_2)
 
 - [Разработка ПО](#program_development)
     - [Разработка на Go](#dev_go)
@@ -94,7 +94,7 @@
 <br><br>
 
 
-<a name="aiml_dls_1"><h3>Учебные проекты 1 курса (весна 2025) Deep Learning School МФТИ</h3></a>
+<a name="aiml_dls_1"><h3>Учебные проекты 1 курса Deep Learning School МФТИ (весна 2025)</h3></a>
  
 [Каталог проекта](https://github.com/idalgo-2021/mipt_dls1_2025) 
 
@@ -162,7 +162,7 @@
 <br><br>
 
 
-<a name="aiml_dls_2"><h3>Учебные проекты 2 курса (осень 2025) Deep Learning School МФТИ</h3></a>
+<a name="aiml_dls_2"><h3>Учебные проекты 2 курса Deep Learning School МФТИ (осень 2025)</h3></a>
  
 [Каталог проекта](https://github.com/idalgo-2021/mipt_dls2_2025) 
 
