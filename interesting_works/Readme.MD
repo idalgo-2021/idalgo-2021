@@ -6,7 +6,8 @@
 
 - [AI, ML, DL, DS](#aiml)
     - [Telegram-бот для стилизации изображений.  Итоговый проект 1 курса (весна 2025) Deep Learning School МФТИ](#aiml_dls_tgbot)
-    - [Проекты(домашние задания) 1 курса (весна 2025) Deep Learning School МФТИ](#aiml_dls_1)
+    - [Учебные проекты 1 курса (весна 2025) Deep Learning School МФТИ](#aiml_dls_1)
+    - [Учебные проекты 2 курса (весна 2025) Deep Learning School МФТИ](#aiml_dls_2)
 
 - [Разработка ПО](#program_development)
     - [Разработка на Go](#dev_go)
@@ -24,7 +25,11 @@
         - [Программа автоматизации службы Service Desk. Проект СТГ-Инжиниринг(Сирия, 2020)](#1c_servicedesk)
         - [(Тестовое задание): Программист. Компания Сималэнд(Екатеринбург, 2015)](#1c_simaland)
 
-- [Системная и бизнес аналитика](#sa_and_ba)
+- [Аналитика](#sa_and_ba_and_da)
+    - [Итоговый проект по курсу Яндекс Лицея "BigData" (2025)](#yaLms_bigdata_divvy)
+
+
+
 
 
 
@@ -62,7 +67,7 @@
 
 
 
-<a name="aiml"><h2>AI, ML, DL, DS</h2></a>
+<a name="aiml"><h2>AI, ML, DL, DS, BD</h2></a>
 
 
 <a name="aiml_dls_tgbot"><h3>Telegram-бот для стилизации изображений.  Итоговый проект 1 курса (весна 2025) Deep Learning School МФТИ</h3></a>
@@ -85,7 +90,7 @@
 <br><br>
 
 
-<a name="aiml_dls_1"><h3>Проекты(домашние задания) 1 курса (весна 2025) Deep Learning School МФТИ</h3></a>
+<a name="aiml_dls_1"><h3>Учебные проекты 1 курса (весна 2025) Deep Learning School МФТИ</h3></a>
  
 [Каталог проекта](https://github.com/idalgo-2021/mipt_dls1_2025) 
 
@@ -149,6 +154,28 @@
 
             Face generation, image stylization via text prompts (StyleCLIP: CLIP + StyleGAN).
 
+</details>
+<br><br>
+
+
+<a name="aiml_dls_2"><h3>Учебные проекты 2 курса (осень 2025) Deep Learning School МФТИ</h3></a>
+ 
+[Каталог проекта](https://github.com/idalgo-2021/mipt_dls2_2025) 
+
+<details>
+<summary>Нажмите, чтобы развернуть</summary>
+            
+        1. Searching for sentences that are similar in meaning
+                
+        2. Neural network classification of texts
+                   
+        3. Learning a language model using LSTM
+
+        4. The mechanism of attention
+
+        5. Retrieval-Augmented Generation (RAG)
+
+        6. 'You Are Bot!' - Kaggle competition  
           
 </details>
 <br><br>
@@ -446,8 +473,18 @@ GET http://localhost:8081/order/<order_uid> должен вернуть JSON с 
 
 
 
+<a name="sa_and_ba_and_da"><h2>Аналитика</h2></a>
 
+<a name="yaLms_bigdata_divvy"><h4>Итоговый проект по курсу Яндекс Лицея "BigData" (2025)</h4></a>
 
+[Каталог проекта](https://github.com/idalgo-2021/yalms_bigdata_final)
 
-<a name="sa_and_ba"><h2>Системная и бизнес аналитика</h2></a>
+<details>
+<summary>Нажмите, чтобы развернуть</summary>
 
+    Задание:
+
+    На основе датасета с многолетними историческими данными о поездках велопроката Divvy Bikes необходимо оценить объем рынка и особенности его динамики, а также разработать модель юнит-экономики поездки для различных сценариев использования сервиса, включая разовые поездки, месячные подписки и другие варианты.
+
+</details>
+<br><br>
