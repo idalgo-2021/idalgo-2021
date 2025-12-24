@@ -371,7 +371,7 @@ GET http://localhost:8081/order/<order_uid> должен вернуть JSON с 
 <br><br>
 
 
-<a name="yaLms_golang_1"><h4>Итоговый проект по курсу Яндекс Лицея "Основы программирования на Golang</h4></a>
+<a name="yaLms_golang_1"><h4>Итоговый проект по курсу Яндекс Лицея "Основы программирования на Golang" (2023)</h4></a>
 
 [Каталог проекта](https://github.com/idalgo-2021/ya_lms_expression_calc_two)
 
