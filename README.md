@@ -17,7 +17,7 @@ You can find a curated list of my interesting projects, test assignments, and co
 *   **System Architecture & Design**
 *   **AI, ML, DL, DS**
 *   **Software Development (Go, Python, 1C, C)**
-*   **System & Business Analysis**
+*   **System & Business & Data Analysis**
 
 
 ## 🎓 Diplomas & Certifications
@@ -40,4 +40,4 @@ This mix of technical and analytical skills helps me design solutions that align
 
 ## 📫 Contact Me
 
-*   [Telegram](https://t.me/Federico_manchinini) <!-- Add LinkedIn or other contacts here -->
+*   [Telegram](https://t.me/Federico_manchinini) 
