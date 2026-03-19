@@ -10,16 +10,6 @@ I'm a software engineer passionate about building robust and scalable solutions,
 *   **Concepts:** Software & Business Process Architecture, Resource Management.
 
 
-## 💼 My Projects
-
-You can find a curated list of my interesting projects, test assignments, and contributions in the [interesting_works](interesting_works/Readme.MD) file. This includes work related to:
-
-*   **System Architecture & Design**
-*   **AI, ML, DL, DS**
-*   **Software Development (Go, Python, 1C, C)**
-*   **System & Business & Data Analysis**
-
-
 ## 🎓 Diplomas & Certifications
 
 A collection of my diplomas and certificates can be found in the [diplomas_and_certs](diplomas_and_certificates) folder.
@@ -36,6 +26,28 @@ Alongside software engineering, I also bring professional experience as:
 This mix of technical and analytical skills helps me design solutions that align both with engineering best practices and business goals.
 
 ⚡ In the past, I worked extensively in the 1C industry, focusing on enterprise automation and accounting system development. You can find some of my work and contributions on my Infostart community profile:  [infostart.ru](https://infostart.ru/profile/481012).
+
+
+
+## 💼 My Projects
+
+#### *Interesting Projects and Test Assignments:*
+
+| Year | Domain | Project / Assignment | Short Description | Link / Repository | Achievements |
+|------|--------|--------------------|-------------------|-------------------|--------------|
+| 2025 | AI / LLM / RAG | SneakerHub AI Assistant | RAG + SQLite + Telegram bot + search across products/reviews/trends | https://github.com/idalgo-2021/dls_aiagent | Final project, DLS (MIPT), Year 2 |
+| 2025 | AI / NST / CycleGAN | Image Stylization Telegram Bot | Neural Style Transfer + CycleGAN (Simpsons) + Docker | https://github.com/idalgo-2021/dls_bot | Final project, DLS (MIPT), Year 1 |
+| 2025 | Big Data / Unit Economics | Divvy Bikes — Bike Rental Market Analysis | Market evaluation, unit economics, pricing models | https://github.com/idalgo-2021/yalms_bigdata_final | Final project, Yandex Lyceum (Big Data) |
+| 2025 | Hackathon / OTA | O! Hackathon — Ostrovok | “Mystery Guest” track | https://github.com/idalgo-2021/koshka-musya | 🥉 3rd place |
+| 2025 | Go + Kafka + PostgreSQL | WB Tech L0: Test Assignment | Microservice: Kafka → PostgreSQL → in-memory cache + HTTP API | https://github.com/idalgo-2021/wb_tech_level_zero | - |
+| 2024 | Go / Web / Microservices | SwapMeet — Marketplace Platform | Go: Auth + Gateway + App server, gRPC, PostgreSQL | https://github.com/idalgo-2021/hw_swapmeet | Final project, Yandex Lyceum (Web Go) |
+| 2024 | Go / Web / Microservices / Triton | House of Neural Networks | Go: Auth + Gateway + NVIDIA Triton, gRPC, PostgreSQL | https://github.com/idalgo-2021/house_of_neural_networks | Final project, Yandex Lyceum (Web Go) |
+| 2024 | System Design | Target IT Architecture for SMALL (Kazakhstan): Test Assignment | FMCG retailer: components, data flows, technology stack | https://github.com/idalgo-2021/testtask_small_arch | - |
+| 2020 | 1C / Inventory & Trade Accounting | Accounting System for Mutka.co Darkstore Network (Colombia) | Darkstores, cost calculation, barcodes | https://github.com/idalgo-2021/mvp_StorePlatfirm | - |
+| 2020 | 1C / Service Desk | Service Desk Automation System | Single-window interface, tickets, assignees, reporting | https://github.com/idalgo-2021/mvp_Service_Desk | - |
+| … | … | … | … | … | … |
+
+
 
 
 ## 📫 Contact Me
