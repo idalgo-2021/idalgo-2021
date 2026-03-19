@@ -29,9 +29,8 @@ This mix of technical and analytical skills helps me design solutions that align
 
 
 
-## 💼 My Projects
+## 💼 Here are some of my interesting projects
 
-#### *Interesting Projects and Test Assignments:*
 
 | Year | Domain | Project / Assignment | Short Description | Link / Repository | Achievements |
 |------|--------|--------------------|-------------------|-------------------|--------------|
@@ -46,10 +45,3 @@ This mix of technical and analytical skills helps me design solutions that align
 | 2020 | 1C / Inventory & Trade Accounting | Accounting System for Mutka.co Darkstore Network (Colombia) | Darkstores, cost calculation, barcodes | https://github.com/idalgo-2021/mvp_StorePlatfirm | - |
 | 2020 | 1C / Service Desk | Service Desk Automation System | Single-window interface, tickets, assignees, reporting | https://github.com/idalgo-2021/mvp_Service_Desk | - |
 | … | … | … | … | … | … |
-
-
-
-
-## 📫 Contact Me
-
-*   [Telegram](https://t.me/Federico_manchinini) 
